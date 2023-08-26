@@ -6,6 +6,10 @@
     background: #1d1d1d;
 }
 
+body {
+    overflow: hidden;
+}
+
 .cursor {
     height: 30px;
     width: 30px;
